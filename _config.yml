@@ -1,0 +1,28 @@
+name: 'A Love Story Wedding & Event Planning'
+favicon: null
+layout_spectrum: 0.2721009098459035
+typography_spectrum: 0.125813617836684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9785436361562461
+  lightness: 0.7299136554356664
+  saturation: 0.8118156099226326
+  rhythmicContrast: 0.4689454382751137
+purpose: []
