@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Full Wedding Planning
-datePublished: '2016-02-13T23:27:35.689Z'
-dateModified: '2016-02-13T23:27:22.331Z'
+datePublished: '2016-02-18T22:55:22.976Z'
+dateModified: '2016-02-18T22:48:50.688Z'
 title: Happily Ever After
 author: []
 sourcePath: _posts/2016-02-13-happily-ever-after.md
