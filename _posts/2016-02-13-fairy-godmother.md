@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Month of Planning
-datePublished: '2016-02-13T23:32:05.632Z'
-dateModified: '2016-02-13T23:29:15.875Z'
+datePublished: '2016-02-18T22:55:31.715Z'
+dateModified: '2016-02-18T22:48:31.713Z'
 title: Fairy Godmother
 author: []
 sourcePath: _posts/2016-02-13-fairy-godmother.md
