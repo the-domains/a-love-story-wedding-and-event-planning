@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-13T23:20:19.753Z'
-dateModified: '2016-02-13T23:20:12.652Z'
+datePublished: '2016-03-12T21:32:07.569Z'
+dateModified: '2016-03-12T21:31:53.611Z'
 title: |
   A Love Story Wedding &Event Planning
 author: []
@@ -24,6 +24,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00ce3a51-1b31-41a3-9f3f-bcdfd442f425.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3398484c-66dc-43fc-9423-34bfb5d3a3b7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b218d417988c8e162e747a4a2d8adc416f1b538.jpg)
 
 # A Love Story Wedding &Event Planning
