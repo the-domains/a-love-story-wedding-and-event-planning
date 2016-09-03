@@ -1,23 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: Month of Planning
-datePublished: '2016-02-18T22:55:31.715Z'
-dateModified: '2016-02-18T22:48:31.713Z'
-title: Fairy Godmother
-author: []
+datePublished: '2016-08-31T20:39:13.873Z'
 sourcePath: _posts/2016-02-13-fairy-godmother.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-31T20:39:13.527Z'
+title: ''
+publisher: {}
+description: Fairy Godmother
+inLanguage: null
+inNav: true
+via: {}
+starred: false
 url: fairy-godmother/index.html
 _type: Article
 
