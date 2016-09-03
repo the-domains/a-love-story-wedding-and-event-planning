@@ -1,20 +1,4 @@
-name: A Love Story Wedding & Event Planning
-favicon: null
-layout_spectrum: 0.48466
 typography_spectrum: 0.84643
-title: A Love Story Wedding & Event Planning
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f6f6fe'
@@ -26,4 +10,21 @@ color:
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.48466
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: A Love Story Wedding & Event Planning
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: A Love Story Wedding & Event Planning
+description: Your Fairy Tale Come True
 purpose: []
